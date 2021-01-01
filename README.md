@@ -1,4 +1,4 @@
-# frosted glass effect
+# Frosted Glass Effect
 
 Create frosted glass effect only use html and css
 
